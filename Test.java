@@ -13,6 +13,6 @@ class Test{
 		System.out.println("1) Generate HASH");
 		System.out.println("2) Compare HASH");
 		System.out.println("3) Re-compute");
-		
+		System.out.println("---------------------");
 	}
 }
